@@ -15,7 +15,7 @@ Building. Learning. Improving.
 -  AniWave - Anime Streaming Website type UI
 - 🌌 NebulaX – Space dashboard using NASA APIs  
 ![Banner](https://github.com/Punitcodes-16/Punitcodes-16/blob/39d74e943b809ccf189573033d3a2ad5c69613a0/Screenshot%202026-04-18%20215549.png)
-
+![Banner](https://github.com/Punitcodes-16/Punitcodes-16/blob/0e316537c2fba4fdd66fc4b64fa61b47b19b0d6a/Screenshot%202026-04-18%20215651.png)
 ---
 
 ## Tech Stack
