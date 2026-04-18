@@ -6,16 +6,15 @@ Building. Learning. Improving.
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Punitcodes-16&show_icons=true&theme=dark&hide_border=true)
 
-![Streak](https://streak-stats.demolab.com/?user=Punitcodes-16&theme=dark&hide_border=true)
 
 ---
 
 ## Projects
 
+-  AniWave - Anime Streaming Website type UI
 - 🌌 NebulaX – Space dashboard using NASA APIs  
-- 🧠 Nexus – Multi-user workspace platform  
+
 
 ---
 
