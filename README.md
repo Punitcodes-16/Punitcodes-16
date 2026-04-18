@@ -1,4 +1,4 @@
-![Banner](https://drive.google.com/uc?export=view&id=1mlwqptGNeNpWwuId5HrPuzE4bZi7jHg_)
+![Banner](https://github.com/Punitcodes-16/Punitcodes-16/blob/44595502f4ceddfb97f0db12373f5879869f2035/Banner.png.jpeg)
 
 # Punit Bhargava
 
